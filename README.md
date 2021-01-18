@@ -7,4 +7,4 @@ I am an International Student from Nepal. I like adventure and roam around new p
 My first plan is to graduate as soon as possible and work on the field of computer science.
 ## Links 
 1. Linked in - https://www.linkedin.com/in/rajeev-chapagain-28409816b/
-1.  Github- https://github.com/Rajeevbro
+1. Github- https://github.com/Rajeevbro
